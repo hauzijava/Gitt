@@ -7,6 +7,7 @@ public class gittest {
         System.out.println("赖明华是ge cha");
         System.out.println("赖明华是ge哥哥");
         System.out.println("pushge哥哥");
+         System.out.println("pushge哥哥");
 
     }
 
